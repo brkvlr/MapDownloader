@@ -1,0 +1,26 @@
+{
+    "servers":
+    [
+        {
+            "name": "RUNAWAY Zombie Escape",
+            "mapList": "https://runawaytr.com/ze-maps.csv",
+            "fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
+            "appID": "730",
+	    "mapsDirectory": "\\csgo\\maps\\"
+        },
+        {
+            "name": "RUNAWAY Surf",
+            "mapList": "https://runawaytr.com/surf-maps.csv",
+            "fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
+            "appID": "730",
+	    "mapsDirectory": "\\csgo\\maps\\"
+        },
+        {
+            "name": "RUNAWAY Bhop",
+            "mapList": "https://runawaytr.com/bhop-maps.csv",
+            "fastDL": "http://cscenterfastdl.oyuncevheri.com/csx/maps/",
+            "appID": "730",
+	    "mapsDirectory": "\\csgo\\maps\\"
+        }
+    ]
+}
